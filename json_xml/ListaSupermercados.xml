@@ -1,0 +1,55 @@
+<supermercados>
+    <supermercado>
+        <nombre>Mercadona</nombre>
+        <direccion>Calle de Rusia</direccion>
+        <geolozalizacion>19.452146783214566, -24.63921203720234</geolozalizacion>
+        <prodcutos>
+            <producto>
+                <nombre>Cookies</nombre>
+                <precio>1.50</precio>
+                <unidades>5</unidades>
+                <periodoVencimiento>31/04/23</periodoVencimiento>
+                <unidadMedida>KG</unidadMedida>
+                <oferta>false</oferta>
+                <habitual>true</habitual>
+            </producto>
+
+            <producto>
+                <nombre>Humus</nombre>
+                <precio>2.00</precio>
+                <unidades>10</unidades>
+                <periodoVencimiento>15/05/23</periodoVencimiento>
+                <unidadMedida>KG</unidadMedida>
+                <oferta>false</oferta>
+                <habitual>false</habitual>
+            </producto>
+        </prodcutos>
+    </supermercado>
+
+    <supermercado>
+        <nombre>Alcampo</nombre>
+        <direccion>Calle Francisco Diaz</direccion>
+        <geolozalizacion>20.62812623849372, -16.54321576439082</geolozalizacion>
+        <prodcutos>
+            <producto>
+                <nombre>Tomate Frito</nombre>
+                <precio>1.50</precio>
+                <unidades>220</unidades>
+                <periodoVencimiento>12/02/23</periodoVencimiento>
+                <unidadMedida>KG</unidadMedida>
+                <oferta>true</oferta>
+                <habitual>true</habitual>
+            </producto>
+
+            <producto>
+                <nombre>Cereales</nombre>
+                <precio>2.00</precio>
+                <unidades>300</unidades>
+                <periodoVencimiento>01/03/23</periodoVencimiento>
+                <unidadMedida>KG</unidadMedida>
+                <oferta>true</oferta>
+                <habitual>true</habitual>
+            </producto>
+        </prodcutos>
+    </supermercado>
+</supermercados>
